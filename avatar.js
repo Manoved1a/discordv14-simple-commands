@@ -18,4 +18,4 @@ exports.help = {
 name: "avatar"
 };
 
-// Leviniet#0001
+// whitekanyewest on discord
