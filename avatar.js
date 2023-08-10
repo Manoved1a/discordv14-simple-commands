@@ -18,4 +18,4 @@ exports.help = {
 name: "avatar"
 };
 
-// whitekanyewest on discord
+// 000.800 on discord
